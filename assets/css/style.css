@@ -247,6 +247,7 @@ article:hover .icon-arrow {
 .latest-posts:hover {
 	transform: scale(1.02);
 	background-color: #fff;
+	color: black;
 	box-shadow: 0 0 40px rgba(0, 0, 0, 0.15);
 	transition: all 0.3s;
 }
